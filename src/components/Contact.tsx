@@ -12,7 +12,7 @@ const SOCIALS = [
   {
     name: "Instagram",
     icon: Instagram,
-    href: "",
+    href: "https://www.instagram.com/orla8875?igsh=Zmd5YTZyeHJxaDBh",
     color: "from-pink-500 via-fuchsia-500 to-orange-400",
   },
   {
