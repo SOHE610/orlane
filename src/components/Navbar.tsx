@@ -3,7 +3,6 @@ import { Menu, X } from "lucide-react";
 import { useState } from "react";
 
 const links = [
-  { label: "À propos", href: "#about" },
   { label: "Vœux", href: "#voeux" },
   { label: "Souvenirs", href: "#souvenirs" },
   { label: "Cadeaux", href: "#cadeaux" },
